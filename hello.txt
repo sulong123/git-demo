@@ -4,3 +4,4 @@
 444444   master   test
 555555   hot-fix  test
 remote-store-update
+remote-kuaituanduixiezuozhe-update
